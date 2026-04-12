@@ -444,6 +444,7 @@ See code for all available configurations.
 | [Raspberry Pi 3](raspberry-pi/3)                                                  | `<nixos-hardware/raspberry-pi/3>`                       | `raspberry-pi-3`                       |
 | [Raspberry Pi 4](raspberry-pi/4)                                                  | `<nixos-hardware/raspberry-pi/4>`                       | `raspberry-pi-4`                       |
 | [Raspberry Pi 5](raspberry-pi/5)                                                  | `<nixos-hardware/raspberry-pi/5>`                       | `raspberry-pi-5`                       |
+| [Raspberry Pi Zero 2 W](raspberry-pi/zero-2-w)                                    | `<nixos-hardware/raspberry-pi/zero-2-w>`                | `raspberry-pi-zero-2-w`                |
 | [Samsung Series 9 NP900X3C](samsung/np900x3c)                                     | `<nixos-hardware/samsung/np900x3c>`                     | `samsung-np900x3c`                     |
 | [Slimbook Hero RPL-RTX](slimbook/hero/rpl-rtx)                                    | `<nixos-hardware/slimbook/hero/rpl-rtx>`                | `slimbook-hero-rpl-rtx`                |
 | [StarFive VisionFive v1](starfive/visionfive/v1)                                  | `<nixos-hardware/starfive/visionfive/v1>`               | `starfive-visionfive-v1`               |
